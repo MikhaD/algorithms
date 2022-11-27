@@ -33,7 +33,7 @@ If you are a university student and you found this helpful, leave a ⭐ on the r
 ### Divide and Conquer
 - closest pair						📝✏️Θ🐍☕//🧪
 - merge sort						📝✏️Θ🐍☕//🧪
-- quick hull						📝✏️Θ🐍☕//🧪
+- quick hull						✏️Θ☕//🧪
 - quick sort						📝✏️Θ🐍☕//🧪
 - Strassen matrix multiplication	📝✏️Θ🐍☕//🧪
 #### Decrease and Conquer
@@ -73,4 +73,5 @@ If you are a university student and you found this helpful, leave a ⭐ on the r
 - greatest non-adjacent sum*		📝✏️Θ🐍☕//🧪
 - knapsack problem					📝✏️Θ🐍☕//🧪
 - longest increasing subsequence*	📝✏️Θ🐍☕//🧪
+- maximum subarray*					📝✏️Θ🐍☕//🧪
 - Warshall's algorithm				📝✏️Θ🐍☕//🧪
